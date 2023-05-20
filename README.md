@@ -3,6 +3,7 @@
 
 This project is a UI/UX design for a university website that provides separate interfaces for students and professors. The design is created using Figma software, which is a popular tool for designing user interfaces.
 
+- Full Tour Videos: https://drive.google.com/drive/folders/16QzZWK9GF2nTa5DX8BZnUvcLENl6QGxe
 - Project in Figma: https://www.figma.com/file/LCFxlZ3oApmXB0hlVul5X5/EverGreen?node-id=0%3A1&t=u1Lyj9EeuoVVwZCa-1
 - Whole Frames: https://drive.google.com/file/d/1xgCilSyUrur2dkxnOiF7cn0X5I4fqjs0/view?usp=sharing
 
